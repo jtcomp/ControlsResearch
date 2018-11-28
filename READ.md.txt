@@ -1,3 +1,0 @@
-Project for all controls of the spherical magnetic bearing.
-
-The .gitignore for this project should be structured to minimize project files from Vivado, MATLAB or ANSYS
